@@ -11,7 +11,7 @@ Loyiha orqali foydalanuvchilar fayllar va kataloglar haqidagi ma'lumotlarni kiri
 ### 1️⃣ **Loyihani yuklab oling**
 
 ```bash
-git clone https://github.com/username/repository.git  # Github URL
+git clone [this repository](https://github.com/theNodirjon/oop_takrorlash).git  # Github URL
 cd repository  # Loyiha papkasiga o'tish. Agar kerak bo'lsa
 ```
 
